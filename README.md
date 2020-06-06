@@ -8,7 +8,7 @@ This was just the project that I was working on at the time while talking to the
 
 Therefore this project is unfinished but it was more of a placeholder project to see if people would come in.
 
-
+![Screenshot of the Webapp](docs/screenshot.png)
 # Running
 ```js
 npm install
